@@ -1,0 +1,24 @@
+digraph G {
+ node [shape=plaintext];
+label="Colorealo Guatematel";
+some_node [
+label=<
+<table border="0" cellborder="1" cellspacing="4" width="100%" height="100%">
+<tr>
+<td bgcolor="Green" width="5" height="5">        </td>
+<td bgcolor="White" width="5" height="5">        </td>
+<td bgcolor="Purple" width="5" height="5">        </td>
+</tr>
+<tr>
+<td bgcolor="White" width="5" height="5">        </td>
+<td bgcolor="Orange" width="5" height="5">        </td>
+<td bgcolor="White" width="5" height="5">        </td>
+</tr>
+<tr>
+<td bgcolor="Red" width="5" height="5">        </td>
+<td bgcolor="White" width="5" height="5">        </td>
+<td bgcolor="Green" width="5" height="5">        </td>
+</tr>
+</table>>
+];
+}
